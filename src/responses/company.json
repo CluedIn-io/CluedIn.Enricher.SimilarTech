@@ -1,0 +1,31 @@
+{
+    "site": "yahoo.com",
+    "name": "Yahoo",
+    "description": "Yahoo! Inc. (Yahoo), along with its subsidiaries, is engaged in digital information discovery. The Company's segments include the Americas; Europe, Middle East and Africa (EMEA), and Asia Pacific. The Company focuses on informing, connecting and entertaining its users with its search (Yahoo search), communications, including Yahoo Mail and Yahoo Messenger, and digital content products, including Tumblr, and its four verticals, such as Yahoo News, Yahoo Sports, Yahoo Finance and Yahoo Lifestyle. Yahoo Search is a search engine that serves as a guide for users to discover the information on the Internet. Yahoo Mail connects users to the people and things across mobile and desktop. Yahoo Messenger is an instant messaging service that provides an interactive and personalized way for users to connect and communicate in real-time. The Company's Digital Content offerings include Tumblr, its social platform, and its four verticals, including News, Sports, Finance and Lifestyle.",
+    "yearFounded": 1994,
+    "homepage": "http://yahoo.com",
+    "favicon": "https://s.yimg.com/rz/l/favicon.ico",
+    "logo": "https://media.licdn.com/media/p/5/005/00e/318/39cf760.png",
+    "rankings": [
+        {
+            "name": "Fortune 1000",
+            "year": 2016
+        }
+    ],
+    "address": "701 First Ave.",
+    "location": "701 First Ave., Sunnyvale, CA 94089, United States",
+    "country": "United States",
+    "state": "CA",
+    "city": "Sunnyvale",
+    "zip": "94089",
+    "phone": "408-349-3300",
+    "fax": "+1-302-6555049",
+    "employeeRange": "> 10,000",
+    "revenueRange": "> $1B",
+    "linkedInUrl": "https://www.linkedin.com/company/yahoo",
+    "facebookUrl": "https://www.facebook.com/YahooSmallBusiness",
+    "twitterUrl": "https://twitter.com/Yahoo",
+    "facebookLikes": 37630,
+    "twitterFollowers": 1424674,
+    "linkedInId": 1288
+}

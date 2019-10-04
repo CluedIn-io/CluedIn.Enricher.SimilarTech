@@ -1,0 +1,356 @@
+{
+    "site": "yahoo.com",
+    "found": true,
+    "technologies": [
+        {
+            "id": 408,
+            "name": "eyeReturn Marketing",
+            "categories": [
+                "Advertisement"
+            ],
+            "coverage": 0.03,
+            "paying": "no"
+        },
+        {
+            "id": 279,
+            "name": "Mediaplex",
+            "categories": [
+                "Advertisement"
+            ],
+            "coverage": 0,
+            "paying": "yes"
+        },
+        {
+            "id": 1371,
+            "name": "Canonical Tag",
+            "categories": [
+                "Document Standard",
+                "Meta Tags"
+            ],
+            "coverage": 1,
+            "paying": "no"
+        },
+        {
+            "id": 1491,
+            "name": "Yahoo DNS",
+            "categories": [
+                "Server",
+                "Nameserver"
+            ],
+            "coverage": 1,
+            "paying": "no"
+        },
+        {
+            "id": 1368,
+            "name": "Meta http-equiv",
+            "categories": [
+                "Document Standard",
+                "Meta Tags"
+            ],
+            "coverage": 1,
+            "paying": "no"
+        },
+        {
+            "id": 1366,
+            "name": "Meta Description",
+            "categories": [
+                "Document Standard",
+                "Meta Tags"
+            ],
+            "coverage": 0.78,
+            "paying": "no"
+        },
+        {
+            "id": 2376,
+            "name": "RSS",
+            "categories": [
+                "Aggregation Functionality"
+            ],
+            "coverage": 0.21,
+            "paying": "no"
+        },
+        {
+            "id": 1411,
+            "name": "OpenGraph Description Entity",
+            "categories": [
+                "Document Standard",
+                "Open Graph Tags"
+            ],
+            "coverage": 0.78,
+            "paying": "no"
+        },
+        {
+            "id": 1410,
+            "name": "OpenGraph Url Entity",
+            "categories": [
+                "Document Standard",
+                "Open Graph Tags"
+            ],
+            "coverage": 0.77,
+            "paying": "no"
+        },
+        {
+            "id": 153,
+            "name": "Adometry",
+            "categories": [
+                "Advertisement"
+            ],
+            "coverage": 0,
+            "paying": "no"
+        },
+        {
+            "id": 1409,
+            "name": "OpenGraph Type Entity",
+            "categories": [
+                "Document Standard",
+                "Open Graph Tags"
+            ],
+            "coverage": 0.78,
+            "paying": "no"
+        },
+        {
+            "id": 1474,
+            "name": "Theme Color Tag",
+            "categories": [
+                "Document Standard",
+                "Meta Tags"
+            ],
+            "coverage": 0.98,
+            "paying": "no"
+        },
+        {
+            "id": 2463,
+            "name": "P3P Policy",
+            "categories": [
+                "Document Standard"
+            ],
+            "coverage": 0.02,
+            "paying": "no"
+        },
+        {
+            "id": 1351,
+            "name": "Product Schema Entity",
+            "categories": [
+                "Document Standard",
+                "Schema"
+            ],
+            "coverage": 0.01,
+            "paying": "no"
+        },
+        {
+            "id": 2451,
+            "name": "Open Graph Protocol",
+            "categories": [
+                "Document Standard",
+                "Open Graph Tags"
+            ],
+            "coverage": 0.78,
+            "paying": "no"
+        },
+        {
+            "id": 2454,
+            "name": "Facebook Domain Insights",
+            "categories": [
+                "Analytics"
+            ],
+            "coverage": 0.01,
+            "paying": "no"
+        },
+        {
+            "id": 1181,
+            "name": "Twitter",
+            "categories": [
+                "Widget"
+            ],
+            "coverage": 0.19,
+            "paying": "no"
+        },
+        {
+            "id": 211,
+            "name": "Kenshoo",
+            "categories": [
+                "Analytics"
+            ],
+            "coverage": 0.04,
+            "paying": "no"
+        },
+        {
+            "id": 1405,
+            "name": "OpenGraph Image Entity",
+            "categories": [
+                "Document Standard",
+                "Open Graph Tags"
+            ],
+            "coverage": 0.78,
+            "paying": "no"
+        },
+        {
+            "id": 2472,
+            "name": "App Links",
+            "categories": [
+                "Document Standard"
+            ],
+            "coverage": 0.77,
+            "paying": "no"
+        },
+        {
+            "id": 1407,
+            "name": "OpenGraph Site Name Entity",
+            "categories": [
+                "Document Standard",
+                "Open Graph Tags"
+            ],
+            "coverage": 0.01,
+            "paying": "no"
+        },
+        {
+            "id": 2238,
+            "name": "HTTPS",
+            "categories": [
+                "Document Standard"
+            ],
+            "coverage": 1,
+            "paying": "no"
+        },
+        {
+            "id": 918,
+            "name": "Convertro",
+            "categories": [
+                "Tracker"
+            ],
+            "coverage": 0.01,
+            "paying": "no"
+        },
+        {
+            "id": 1126,
+            "name": "UTF-8",
+            "categories": [
+                "Document Standard",
+                "Encoding"
+            ],
+            "coverage": 1,
+            "paying": "no"
+        },
+        {
+            "id": 1872,
+            "name": "Shockwave Flash Embed",
+            "categories": [
+                "Document Standard"
+            ],
+            "coverage": 0,
+            "paying": "no"
+        },
+        {
+            "id": 1125,
+            "name": "Apache",
+            "categories": [
+                "Server",
+                "Web Server"
+            ],
+            "coverage": 1,
+            "paying": "no"
+        },
+        {
+            "id": 2466,
+            "name": "HTML5 DocType",
+            "categories": [
+                "Document Standard"
+            ],
+            "coverage": 1,
+            "paying": "no"
+        },
+        {
+            "id": 2469,
+            "name": "X-UA-Compatible",
+            "categories": [
+                "Document Standard"
+            ],
+            "coverage": 0.01,
+            "paying": "no"
+        },
+        {
+            "id": 1122,
+            "name": "jQuery",
+            "categories": [
+                "JavaScript"
+            ],
+            "coverage": 0.94,
+            "paying": "no"
+        },
+        {
+            "id": 728,
+            "name": "Twitter Button",
+            "categories": [
+                "Widget",
+                "Social Sharing"
+            ],
+            "coverage": 0.22,
+            "paying": "no"
+        },
+        {
+            "id": 1324,
+            "name": "Apple Mobile Tags",
+            "categories": [
+                "Document Standard"
+            ],
+            "coverage": 0.01,
+            "paying": "no"
+        },
+        {
+            "id": 1561,
+            "name": "HTML5 SVG Tag",
+            "categories": [
+                "Document Standard",
+                "HTML Tags"
+            ],
+            "coverage": 0.98,
+            "paying": "no"
+        },
+        {
+            "id": 1325,
+            "name": "Meta Viewport",
+            "categories": [
+                "Document Standard",
+                "Meta Tags"
+            ],
+            "coverage": 0.01,
+            "paying": "no"
+        },
+        {
+            "id": 723,
+            "name": "Facebook Social Plugins",
+            "categories": [
+                "Widget"
+            ],
+            "coverage": 0.01,
+            "paying": "no"
+        },
+        {
+            "id": 1209,
+            "name": "Youtube",
+            "categories": [
+                "Audio Video Media"
+            ],
+            "coverage": 0.05,
+            "paying": "no"
+        },
+        {
+            "id": 301,
+            "name": "eBay Stats",
+            "categories": [
+                "Advertisement"
+            ],
+            "coverage": 0,
+            "paying": "no"
+        },
+        {
+            "id": 1212,
+            "name": "Vimeo",
+            "categories": [
+                "Audio Video Media"
+            ],
+            "coverage": 0,
+            "paying": "maybe"
+        }
+    ]
+}
